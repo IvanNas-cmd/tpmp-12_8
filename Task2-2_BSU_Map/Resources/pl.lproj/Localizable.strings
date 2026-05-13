@@ -1,0 +1,6 @@
+"bsu_map" = "Mapa BSU";
+"buildings" = "Budynki";
+"no_buildings" = "Brak budynków w tej okolicy";
+"weather" = "Pogoda";
+"restart" = "Restart";
+"restart_msg" = "Uruchom ponownie aplikację, aby zmienić język";

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="1" systemVersion="11A491" minimumToolsVersion="Xcode 14.0" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+<entity name="UniversityBuilding" representedClassName="UniversityBuilding" syncable="YES">
+<attribute name="name" attributeType="String"/>
+<attribute name="type" attributeType="String"/>
+<attribute name="district" attributeType="String"/>
+<attribute name="address" attributeType="String"/>
+<attribute name="latitude" attributeType="Double"/>
+<attribute name="longitude" attributeType="Double"/>
+<attribute name="info" attributeType="String"/>
+</entity>
+<elements><element name="UniversityBuilding" positionX="-63" positionY="-18" width="128" height="45"/></elements>
+</model>
