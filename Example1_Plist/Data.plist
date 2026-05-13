@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0"><dict>
+<key>App Name</key><string>Lab8 Plist Example</string>
+<key>Version</key><string>1.0</string>
+<key>Author</key><string>Ivan Nasenik</string>
+<key>Course</key><string>TPMP Lab8</string>
+</dict></plist>

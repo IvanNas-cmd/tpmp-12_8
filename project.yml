@@ -1,0 +1,22 @@
+name: Example1_Plist
+options:
+  bundleIdPrefix: com.ivan.lab8
+  deploymentTarget:
+    iOS: "17.0"
+  xcodeVersion: "16.0"
+settings:
+  base:
+    SWIFT_VERSION: "5.9"
+targets:
+  Example1_Plist:
+    type: application
+    platform: iOS
+    sources:
+      - path: Example1_Plist
+    settings:
+      base:
+        INFOPLIST_FILE: Example1_Plist/Info.plist
+        PRODUCT_BUNDLE_IDENTIFIER: com.ivan.lab8.Example1_Plist
+        TARGETED_DEVICE_FAMILY: "1,2"
+    info:
+      path: Example1_Plist/Info.plist
