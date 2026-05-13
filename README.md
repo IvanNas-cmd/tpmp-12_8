@@ -1,27 +1,27 @@
-# Лабораторная работа №8 — ТПМП
-
-**Вариант 17:** Минская область (2.1) + Карта БГУ (2.2)
+# TPMP Labs
 
 **Студент:** Насеник Иван  
 **Группа:** 12
 
-## Структура веток
+## Лабораторная работа №8 (текущая)
 
-| Ветка | Проект | Технологии |
-|-------|--------|------------|
-| `main` | README + ссылка на отчёт | — |
-| `example-task1` | Example1_Plist | plist чтение/запись |
-| `example-task2` | Example2_Auth | NSUserDefaults авторизация |
-| `example-task3` | Example3_Location | CoreLocation геолокация |
-| `example-task4` | Example4_MapKit | MapKit + CoreLocation |
-| `example-task5` | Example5_Booking | CoreData + MapKit (Obj-C) |
-| `example-task6` | Example6_CoreData | CoreData + TableView |
-| `example-task7` | Example7_Weather | URLSession + OpenWeatherMap |
-| `feature-task2-1` | Task2-1_MinskRegion | NSUserDefaults + .plist + UICollectionView + 3 языка |
-| `feature-task2-2` | Task2-2_BSU_Map | MapKit + CoreLocation + CoreData + погода + 3 языка |
+- **Вариант 17:** Минская область (2.1) + Карта БГУ (2.2)
+- **Оценка:** 9
+- **Репозиторий:** https://github.com/IvanNas-cmd/tpmp-12_7
 
-## Требования
+### Ветки Lab8
 
-- Xcode 16+ (проекты сгенерированы через XcodeGen)
-- Для погоды: API ключ OpenWeatherMap (бесплатный на openweathermap.org/api)
+| Ветка | Проект |
+|-------|--------|
+| `main` | README |
+| `example-task1` | Plist |
+| `example-task2` | NSUserDefaults Auth |
+| `example-task3` | CoreLocation |
+| `example-task4` | MapKit |
+| `example-task5` | Booking (Obj-C) |
+| `example-task6` | CoreData Students |
+| `example-task7` | Weather |
+| `feature-task2-1` | Minsk Region |
+| `feature-task2-2` | BSU Map |
 
+[Ссылка на отчёт](report_template.md)
