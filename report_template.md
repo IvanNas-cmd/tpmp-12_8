@@ -73,7 +73,8 @@ ann.title = "You are here"
 map.addAnnotation(ann)
 ```
 
-**Скриншот:** [вставить]
+**Скриншот:** <img width="204" height="372" alt="image" src="https://github.com/user-attachments/assets/ce565ce5-95f2-4b95-8bc9-f97aa378c28d" />
+
 
 ### 1.5 Система бронирования (Obj-C + CoreData + MapKit)
 
